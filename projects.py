@@ -165,3 +165,4 @@ elif project == "Simple Calculator":
             st.success(f"Result: {num1 / num2}")
 
 st.markdown('</div>', unsafe_allow_html=True)
+development by @ Suhail Ahmed Aamro 
